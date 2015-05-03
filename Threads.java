@@ -98,7 +98,6 @@ public class ThreadsAndCollections {
     public static void universalTest (List <Integer> list , String name , int countThr) throws InterruptedException{
         OverList runntableList = new OverList (list);
         Result result = new Result ();
-        CallBack testList = new CallBack (runntableList);
         long res = result.testDrive(runntableList, countThr, 11);
         System.out.println("Average time "+name+"= " +res);
     }
@@ -126,7 +125,6 @@ public class ThreadsAndCollections {
     public static void universalTest (Set <Integer> set , String name , int countThr) throws InterruptedException{
         OverSet runntableSet = new OverSet (set);
         Result result = new Result ();
-        CallBack testSet = new CallBack (runntableSet);
         long res = result.testDrive(runntableSet, countThr, 11);
         System.out.println("Average time "+name+"= " +res);
     }
