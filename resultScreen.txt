@@ -1,0 +1,63 @@
+run:
+Finished!
+Finished!
+Finished!
+Average time ArrayList with 100 elements= 50
+Finished!
+Finished!
+Finished!
+Average time LinkedList with 100 elements= 50
+Finished!
+Finished!
+Finished!
+Average time HashSet with 100 elements= 50
+Finished!
+Finished!
+Finished!
+Average time LinkedHashSet with 100 elements= 51
+Finished!
+Finished!
+Finished!
+Average time TreeSet with 100 elements= 59
+---------------------------------------------
+Finished!
+Finished!
+Finished!
+Average time ArrayList with 1000 elements= 570
+Finished!
+Finished!
+Finished!
+Average time LinkedList with 1000 elements= 500
+Finished!
+Finished!
+Finished!
+Average time HashSet with 1000 elements= 501
+Finished!
+Finished!
+Finished!
+Average time LinkedHashSet with 1000 elements= 500
+Finished!
+Finished!
+Finished!
+Average time TreeSet with 1000 elements= 507
+---------------------------------------------
+Finished!
+Finished!
+Finished!
+Average time ArrayList with 10000 elements= 5007
+Finished!
+Finished!
+Finished!
+Average time LinkedList with 10000 elements= 5000
+Finished!
+Finished!
+Finished!
+Average time HashSet with 10000 elements= 5003
+Finished!
+Finished!
+Finished!
+Average time LinkedHashSet with 10000 elements= 5005
+Finished!
+Finished!
+Finished!
+Average time TreeSet with 10000 elements= 5001
