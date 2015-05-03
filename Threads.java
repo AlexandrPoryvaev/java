@@ -126,7 +126,7 @@ public class ThreadsAndCollections {
     public static void universalTest (Set <Integer> set , String name , int countThr) throws InterruptedException{
         OverSet runntableSet = new OverSet (set);
         Result result = new Result ();
-        CallBack testList = new CallBack (runntableSet);
+        CallBack testSet = new CallBack (runntableSet);
         long res = result.testDrive(runntableSet, countThr, 11);
         System.out.println("Average time "+name+"= " +res);
     }
